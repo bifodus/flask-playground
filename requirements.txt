@@ -6,7 +6,7 @@ idna==2.6
 lightdm-gtk-greeter-settings==1.2.2
 louis==3.4.0
 npyscreen==4.10.5
-numpy==1.14.0
+numpy==1.22.0
 packaging==16.8
 pacman-mirrors==4.7.0
 pycairo==1.15.4
